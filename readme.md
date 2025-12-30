@@ -86,13 +86,12 @@ Project ini dikembangkan menggunakan Python dengan library berikut:
 * **Machine Learning**: Scikit-learn (StandardScaler, KMeans, LinearRegression)
 
 ---
-## 📊 Visualisasi Utama
+##  Visualisasi Utama
 
-### Kebutuhan vs Ketersediaan Pangan
-(D:\My\Data Analyst\Pangan_jateng_analysis\images_output\Ketersediaan vs ke butuhan.png)
+![Ketersediaan vs Kebutuhan](assets/images/ketersediaan_vs_kebutuhan.png)
 
-### Prediksi Ketersediaan Pangan (Cth: Beras)
-(D:\My\Data Analyst\Pangan_jateng_analysis\images_output\Prediksi ketersediaan BERAS.png)
+### Prediksi Ketersediaan Pangan (Beras)
+![Prediksi Ketersediaan Beras](assets/images/prediksi_ketersediaan_beras.png)
 
 **Author**: [mohfirdaus22]
 
